@@ -16,7 +16,7 @@ module.exports = {
     headHtml: "",
     footHtml: "",
     isMinify: true,
-    rootPath: "/"
+    rootPath: "/Reading-notes"
   },
   nav: {
     tree: "./tree"
