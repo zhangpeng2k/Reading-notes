@@ -9,12 +9,12 @@ install:
 
 # 生成博客静态资源
 script:
-  - hexo g
+  - teadocs build
 
 # 将静态资源推送到 master 分支上
 after_script:
   # 找到静态资源
-  - cd ./public
+  - cd ./build
   - git init
   # user.name 和 user.email 让 travis 能登录你的 github
   - git config user.name "zhangpeng2k"
@@ -28,9 +28,10 @@ after_script:
 
 branches:
   only:
-    # 设置监控分支，当 hexo 分支代码变化时，执行这个程序
-    - hexo
+    # 设置监控分支，当 dev 分支代码变化时，执行这个程序
+    - dev
 env:
   global:
     # 定义往哪个仓库推送代码，注意事项见下面
-    - GH_REF: github.com/zhangpeng2k/zhangpeng2k.github.io.git
+    - GH_REF: github.com/zhangpeng2k/Reading-notes.git
+    
