@@ -1,4 +1,6 @@
 - [介绍](/index)
+- +读书笔记
+    - [JavaScript高级程序设计](/books/JavaScript高级程序设计)
 - [快速入门](/quick_start)
 - [安装](/install)
 - +配置介绍

@@ -3,9 +3,9 @@ const path = require('path')
 
 module.exports = {
   doc: {
-    name: "",
-    description: "",
-    version: "",
+    name: "读书笔记&随笔",
+    description: "个人读书笔记，生活感悟随笔分享",
+    version: "0.0.1",
     dir: "",
     outDir: "",
     staticDir: ""
