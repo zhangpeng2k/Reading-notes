@@ -8,7 +8,7 @@
 
 #### 历史
 
--  JavaScript是由
+-  JavaScript是由xxx
 
 ### 第2章 在HTML中使用JavaScript
 
