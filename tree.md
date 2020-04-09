@@ -1,7 +1,6 @@
 - [介绍](/index)
 - +读书笔记
-    <!-- - [JavaScript高级程序设计](/books/JavaScript高级程序设计) -->
-    - [JavaScript高级程序设计](/books/Professional JavaScript for Web)
+    - [JavaScript高级程序设计](/books/Professional_JavaScript_for_Web)
     - [图解HTTP](/books/http)
 - +学习笔记
     - [提前体验Vue3](/notes/vue3)
