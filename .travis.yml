@@ -44,6 +44,6 @@ env:
   global:
     # 定义往哪个仓库推送代码，注意事项见下面
     - GH_REF: github.com/zhangpeng2k/Reading-notes.git
-    - GH_REF: e.coding.net/zhangpeng2k/Reading-notes/Reading-notes.git
+    - CODING_REF: e.coding.net/zhangpeng2k/Reading-notes/Reading-notes.git
     
     
