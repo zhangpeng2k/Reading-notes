@@ -4,6 +4,8 @@
     - [图解HTTP](/books/http)
 - +学习笔记
     - [提前体验Vue3](/notes/vue3)
+- +健身日记
+    - [开始！2020](/bodybuilding/Before_Start)
 - [快速入门](/quick_start)
 - [安装](/install)
 - +配置介绍
